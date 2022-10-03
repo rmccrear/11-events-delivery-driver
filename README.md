@@ -100,11 +100,7 @@ classDiagram
 ```mermaid
 classDiagram
     class Dispatch{
-        listenForPickupReady()
-        publishPickupRead()
-        listenForInTransit()
-        publishInTransit()
-        listenForDelivered()
-        publishDelivered()
+        on()
+        emit()
     }
 ```
