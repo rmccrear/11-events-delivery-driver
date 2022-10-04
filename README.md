@@ -1,5 +1,7 @@
 # Delivery Driver Simulator
 
+![passing tests badge](https://github.com/rmccrear/11-events-delivery-driver/actions/workflows/node.js.yml/badge.svg)
+
 This little program simulates a deliver dispatch system. It uses node eventHandler to dispatch events between the parties.
 
 ## Diagram
